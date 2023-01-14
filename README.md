@@ -1,8 +1,8 @@
 ### Hi, I´m Juan Escobar👋
 
-self-taught frontend developer who loves JavaScript, solving problems and learning new skills 💻
+self-taught React developer who loves JavaScript, solving problems and learning new skills 💻
 
-I´m currently based on Colombia and learning react.js
+
 
 
 
